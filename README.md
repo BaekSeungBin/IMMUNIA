@@ -1,2 +1,2 @@
-# IMMUNIA
-roguelike
+<h1>IMMUNIA 개발 프로젝트</h1>
+<h2>유니티로 개발하는 로그라이크 형식 슈팅 게임</h2>
